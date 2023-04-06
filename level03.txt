@@ -1,0 +1,14 @@
+wwwww wwwww wwwwwww
+w   w w   w w  tr  w
+w p w w ty w w     w
+w   w w   w w  f  w
+w   w w   w wwwwwww
+w   w w   w
+w   w w   wwwwwwwww
+w   w w           w
+w ty w w         tr w
+w   w w           w
+wwwww wwwwwwwwwwwww
+LEVEL 3
+TELEPORTERS ARE LINKED IF THEY
+ARE THE SAME COLOR

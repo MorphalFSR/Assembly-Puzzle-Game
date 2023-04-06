@@ -1,0 +1,12 @@
+www
+wfw
+w w www
+w w wpw
+w www w
+w     w
+wwwwwww
+LEVEL 1
+YOU CAN ALSO USE:
+W TO MOVE UP
+A TO MOVE LEFT
+S TO MOVE DOWN

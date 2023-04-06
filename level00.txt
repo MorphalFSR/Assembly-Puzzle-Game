@@ -1,0 +1,7 @@
+wwwwwwww
+wp    fw <-----------------------
+wwwwwwww                         |
+LEVEL 0                          |
+WELCOME TO THE GAME!             |
+USE THE D KEY TO MOVE RIGHT      |
+YOUR GOAL IS TO REACH THE FLAG --
